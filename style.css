@@ -1,0 +1,8 @@
+.ship {
+    width: 20px;
+    height: 100px;
+    position: fixed;
+    left: 300px;
+    bottom: 100px;
+
+}
